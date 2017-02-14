@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hacker News Zero</string>
+
+    <!-- Drawer menu -->
+    <string name="nav_item_front_page">Front Page</string>
+    <string name="nav_item_ask_hn">Ask HN</string>
+    <string name="nav_item_show_hn">Show HN</string>
+    <string name="nav_item_jobs">Jobs</string>
+    <string name="nav_item_new">New</string>
+    <string name="nav_title_social_media">Social Media</string>
+    <string name="nav_item_facebook">HN Zero on Facebook</string>
+    <string name="nav_item_twitter">HN Zero on Twitter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
